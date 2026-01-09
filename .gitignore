@@ -1,0 +1,147 @@
+# ===========================
+# 1. Python 核心垃圾文件
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ===========================
+# 2. 虚拟环境 (Virtual Envs)
+# ===========================
+# 各种常见的虚拟环境名称
+venv/
+env/
+.env
+.venv
+anaconda/
+miniconda/
+ENV/
+env.bak/
+venv.bak/
+
+# ===========================
+# 3. 数据集 (Data) - 最关键部分
+# ===========================
+# 屏蔽你脚本生成的文件夹
+# data/  （需要上传到 GitHub 时请不要忽略）
+data_kaggle_prepared/
+dataset/
+datasets/
+dataset_split/
+
+# 屏蔽你刚才提到的源数据文件夹名
+All_Dataset/
+Brain Tumor Data Set/
+outputs_images/
+output_images/
+brainTumorDataPublic/
+
+# 屏蔽常见的大型数据压缩包
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.iso
+
+# 屏蔽具体的图片文件 (防止不小心把散落的图片传上去)
+# 如果你的 README 需要图片，请专门新建一个 assets 文件夹并放行
+# *.jpg
+# *.jpeg
+# *.png
+# *.tif
+# *.tiff
+
+# ===========================
+# 4. 模型权重 (Models)
+# ===========================
+# 禁止上传训练好的大模型
+checkpoints/
+checkpoints_*/
+checkpoints-*/
+saved_models/
+models/
+model_pth/
+save_model/
+
+# 禁止上传具体的权重文件
+*.pth
+*.pt
+*.dt
+*.h5
+*.hdf5
+*.ckpt
+*.pkl
+*.onnx
+*.safetensors
+*.pb
+
+# ===========================
+# 5. 日志与输出 (Logs & Outputs)
+# ===========================
+logs/
+logs_*/
+logs-*/
+runs_*/
+runs/
+results/
+result/
+outputs/
+wandb/
+.wandb
+gradcam_results/
+fmix_visualization/
+events.out.tfevents.*
+*.csv
+*.log
+
+# ===========================
+# 5.5 外部依赖源码 (Third-party repos)
+# ===========================
+external/
+
+# ===========================
+# 6. IDE 与 系统文件
+# ===========================
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Windows 系统产生的缩略图缓存 (这个很烦人，必须屏蔽)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac 系统文件
+.DS_Store
+
+# ===========================
+# 8. 文档/演示文件（通常不算“核心代码”）
+# ===========================
+*.docx
+*.pptx
+*.pdf
+
+# ===========================
+# 7. Jupyter Notebook
+# ===========================
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*

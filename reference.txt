@@ -1,0 +1,32 @@
+1. Implementing a novel low complexity CNN model for brain tumor detection
+2. Relational inductive biases, deep learning, and graph networks
+3. An L2-Normalized Spatial Attention Network for Accurate and Fast Classification of Brain Tumors in 2D T1-Weighted CE-MRI Images
+4. Self-supervised vision transformers learn visual concepts in histopathology
+5. Brain Tumor Classification Method Based on Improved EfficientNetV2 Network
+6. An image is worth 16x16 words: Transformers for image recognition at scale
+7. CoAtNet: Marrying Convolution and Attention for All Data Sizes
+8. Segment anything in medical images
+9. NeuroNet19: an explainable deep neural network model for the classification of brain tumors using magnetic resonance imaging data
+10. Coordinate attention for efficient mobile network design
+11. Direction-Aware convolution for airway tubular feature enhancement network
+12. Densely connected convolutional networks
+13. A Brain Tumor Magnetic Resonance Image Segmentation Algorithm Based on CA-Net
+14. Hybrid‐NET: A fusion of DenseNet169 and advanced machine learning classifiers for enhanced brain tumor diagnosis
+15. Swin transformer: Hierarchical vision transformer using shifted windows
+16. nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation
+17. Design of automated computer-aided classification of brain tumor using deep learning
+18. A fine-tuned vision transformer based enhanced multi-class brain tumor classification using MRI scan imagery
+19. Enhancing brain tumor detection in MRI with a rotation invariant Vision Transformer
+20. A Comparative Analysis of Vision Transformers and Transfer Learning for Brain Tumor Classification
+21. Grad-cam: Visual explanations from deep networks via gradient-based localization
+22. Automatic brain tumour diagnostic method based on a back propagation neural network and an extended set-membership filter
+23. From modern CNNs to vision transformers: Assessing the performance, robustness, and classification strategies of deep learning models in histopathology
+24. Brain tumor detection and multi-classification using advanced deep learning techniques
+25. Mixup：Beyond empirical risk minimization
+26. MedViT: A robust vision transformer for generalized medical image classification
+27. Automated 3D segmentation of the hyoid bone in CBCT using nnU‑Net v2: a retrospective study on model performance and potential clinical utility
+28. SegFormer3D: an efficient transformer for 3D medical image segmentation
+29. FMix: Enhancing mixed sample data augmentation
+30. Focal loss for dense object detection
+31. Searching for MobileNetV3
+32. D-LKA Net: Deformable Large Kernel Attention for Medical Image Segmentation
